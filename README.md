@@ -15,6 +15,7 @@ I am the Founder of ProCommerce Solutions LLC, an elite Shopify Design and Devel
 ### 🔬 Active R&D at ProCommerce Labs
 
 ◾ **CRM-ProCommerce:** A proprietary client management application built using a unified Supabase, Vercel, and GitHub infrastructure block.
+
 ◾ **AgenticFlow AI:** Designing semantic catalog optimization frameworks ready for next-generation AI shopping agent networks.
 
 ### 🏢 Partner With Me
